@@ -1,13 +1,22 @@
-# Raster Label Station — releases
+# Raster Label
 
-This repository holds the downloadable releases of **Raster Label Station**, the label app for live production. It prints device, cable, case and stek labels straight from your show's tech sheet.
+**Prints device, cable, bundle and case labels straight from your show's tech sheet.**
 
-**Status: in development.** There are no downloads yet. The first public release (0.1.0) will appear under [Releases](../../releases) when it's ready.
+This repository holds installers only. Download the latest from
+[**Releases**](../../releases/latest).
 
-- Product page: https://rastertech.app/label-station/
-- Support: support@rastertech.app
-- Privacy policy: https://rastertech.app/privacy.html
+## What it does
 
-This repository contains release files and notes only. It doesn't hold source code, and issues are handled by email at the address above.
+- Reads your show's Google Sheet. It never writes to it.
+- Prints device, cable, bundle and case labels, on label tape or plain paper.
+- Works with Epson LabelWorks and Brother P-touch tape printers, and any office printer.
 
-© Raster Tech
+## Install
+
+**Windows 10 or 11.** Run the installer. If Windows says "Windows protected your PC",
+click **More info → Run anyway**.
+
+## Help
+
+support@rastertech.app.
+[Privacy policy](https://rastertech.app/privacy).
